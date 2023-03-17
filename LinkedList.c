@@ -24,7 +24,7 @@ int main()
 	printf("the node elements are\n");
 	PrintList();
 
-/*	printf("enter the data to insertion at last::\n");
+	printf("enter the data to insertion at last::\n");
 	insertion_atlast();
 	printf("after adding the element at last\n");
 	PrintList();
@@ -36,7 +36,7 @@ int main()
 	insert_at_specific();
 	printf("after insert at specific pos\n");
         PrintList();
-*/	printf("now we are doing delete:\n");
+	printf("now we are doing delete:\n");
 	delete_beg();
 	PrintList();
 	printf("delete from last\n");
