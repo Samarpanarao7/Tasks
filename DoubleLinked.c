@@ -238,6 +238,4 @@ int Delete_at_specific(){
 		temp1 = temp1->link;
 	}
 
-
-
 }
