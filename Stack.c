@@ -66,6 +66,7 @@ int display(){
 	printf("\n");		
 	}
 }
+
 int peek(){
 	if(top == -1){
 		printf("underflow::\n");
